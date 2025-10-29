@@ -4,7 +4,7 @@ import Input from '../../components/Input'
 
 const Price = ({handleChange}) => {
   return (
-    <div>
+    <div style={{marginBottom:"20px"}}>
       <h2 className='sidebar-title price-title'>Price</h2>
 
       <div>
